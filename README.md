@@ -1,5 +1,6 @@
 # ICU Monitor
-![Uploading ICU.gif…]()
+
+![ICU](https://github.com/hadeerfasih/ICU-monitor/assets/104545742/bb1dfab8-1c14-40a4-ac2a-12fe90df6c27)
 
 
 ## Overview
